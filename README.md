@@ -43,7 +43,7 @@ Best jQuery Treeview &amp; jQuery tree plugin with example of jquery treeview ba
 &lt;/ul&gt;</pre>
 ## Initialize the plugin and we're done.
 
-<pre>$('.sidebar-menu').anarchytreeview()</pre>
+<pre>$('.sidebar-menu').SidebarNav()</pre>
 
 # Credits
 
