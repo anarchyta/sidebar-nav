@@ -170,10 +170,7 @@ expanded="false">
         <!-- /.navbar-collapse -->
       </aside>
       <div class="content container-fluid">
-        <div class="jumbotron" style="background-color:transparent;">
-          <h1>قائمة إدارة متجاوبة <small>مع التمهيد</small></h1>
-          <p><a href="https://codecanyon.net/item/bootstrap-responsive-sidebar-nav/18812275">شراء الآن 8 $ دولار أمريكي</a></p>
-        </div>
+        <h1>قائمة إدارة متجاوبة <small>مع التمهيد</small></h1>
         <div class="panel panel-default">
           <div class="panel-heading">المحتوى القائمة مشرف</div>
           <div class="panel-body">
